@@ -1,0 +1,9 @@
+.block {
+  text-align: center;
+  padding: 30vh 0 0 0;
+  height: 100vh;
+  
+  font-style: italic;
+  font-size: 14vh;
+  background-color: #faebd7;
+}
