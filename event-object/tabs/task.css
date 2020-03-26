@@ -20,3 +20,8 @@
   display: block;
 }
 
+.floor {
+  height: 20px;
+  background-color: gray;
+  margin-bottom: 20px;
+}
