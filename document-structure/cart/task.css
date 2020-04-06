@@ -89,3 +89,20 @@ body {
 .product-shadow {
   position: absolute;
 }
+
+.cart__non-active {
+  display: none;
+}
+
+.delete {
+  width: 20px;
+  height: 20px;
+  border: 2px solid green;
+  border-radius: 20px;
+
+  font-weight: bold;
+  text-align: center;
+  color: red;
+
+  cursor: pointer
+}

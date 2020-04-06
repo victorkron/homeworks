@@ -19,3 +19,7 @@
 .tooltip_active {
   display: block;
 }
+
+.tooltip_active2 {
+  display: inline-block;
+}
