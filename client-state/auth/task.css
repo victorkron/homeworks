@@ -35,3 +35,13 @@ body {
 .welcome_active {
   display: block;
 }
+
+.none {
+  display: none;
+}
+
+.exit {
+  display: block;
+  width: 100px;
+  height: 25px;
+}

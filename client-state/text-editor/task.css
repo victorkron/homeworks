@@ -1,0 +1,12 @@
+button {
+  display: block;
+  width: 200px;
+  height: 30px;
+  margin: auto;
+  margin-top: 20px;
+}
+
+textarea {
+  display: block;
+  margin: auto;
+}
